@@ -1,0 +1,12 @@
+{  
+  "cutPrefixStrings": ["A"
+      ,"B"
+    ],
+
+  "output": "C:\\work\\out.txt",
+  "strages": {
+    "Master": "\\\\PC1\\share1\\Documents",
+    "Slave": "E:\\Documents"
+  },
+  "targetExt": ["doc", "xls"]
+}
